@@ -33,9 +33,9 @@ Several analytical techniques are applied to the processed data:
 
 - **CSV File**: `output.csv` containing the cleaned and structured cryptocurrency data.
 - **Graphs**:
-  - **Bitcoin Analysis**: Plots of Bitcoin’s historical price, market cap, and volume are saved as `bitcoin_analysis.png`. This plot helps visualize Bitcoin’s performance over time.
-  - **Predictions vs Actuals**: The LSTM model’s predictions vs actual prices of Bitcoin are shown in `predictions_plot.png`. This graph is crucial for evaluating the accuracy of the predictive model.
-  - **Trend Analysis**: Growth rates for selected cryptocurrencies displayed in `trends_analysis.png` to illustrate their performance over the observed period.
+  - **Bitcoin Analysis**: ![alt text](bitcoin_analysis.png)
+
+  - **Predictions**: ![alt text](predictions.png)
 
 ## Contribution
 
